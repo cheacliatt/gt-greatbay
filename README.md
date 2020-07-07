@@ -1,2 +1,2 @@
-# gt-greaybay
+# gt-greatbay
 sandbox project
